@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Manage Medical Appointment" skipped="0" tests="3" time="43.05" timestamp="2020-06-03 06:13:54"><testcase name="Register a Doctor"/><testcase name="Register a Patient"/><testcase name="Register an appointment"/></testsuite>
